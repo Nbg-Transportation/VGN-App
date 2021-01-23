@@ -1,1 +1,1 @@
-# NeueVGNApp
+# VGN-App
